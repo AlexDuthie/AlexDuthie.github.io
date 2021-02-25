@@ -1,4 +1,6 @@
-# alexduthie.github.io
+# Alex Duthie | Personal Web Portfolio/ Blog
+
+> *Work In Progress*
 
 ## Project setup
 ```

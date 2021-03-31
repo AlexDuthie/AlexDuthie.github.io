@@ -15,5 +15,10 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
+main {
+  height: 100%;
+  width: 100%;
+  background-color: #eee;
+}
 </style>
